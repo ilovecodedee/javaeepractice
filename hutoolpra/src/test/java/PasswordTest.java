@@ -11,7 +11,7 @@ import java.io.File;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+public class PasswordTest
 {
     //218位
     String PUBLIC_KEY="";
